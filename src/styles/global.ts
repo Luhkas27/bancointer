@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  background: ${({theme}) => theme.colors.background};
+  background: ${({theme}) => theme.colors.lightGrey};
   color: ${({theme}) => theme.colors.grey};
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
