@@ -25,4 +25,4 @@ export default {
   transition: {
     default: '180ms ease-in-out',
   },
-};
+} as const;
